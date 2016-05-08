@@ -16,7 +16,7 @@ $(call inherit-product, device/lge/hammerheadcaf/full_hammerhead.mk)
 PRODUCT_DEVICE := hammerheadcaf
 PRODUCT_NAME := cm_hammerheadcaf
 PRODUCT_BRAND := google
-PRODUCT_MODEL := Nexus 5 CAF
+PRODUCT_MODEL := Nexus 5
 PRODUCT_MANUFACTURER := LGE
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
